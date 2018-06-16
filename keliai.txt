@@ -1,6 +1,0 @@
-kelias nuo root iki folderis1 = ./folderis1/
-kelias nuo root iki folder2_1 = ./folderis1/folder1_1/folder2_1/
-kelias nuo folder1_1 iki root = ../
-kelias nuo folder2_2 iki root = ../../
-kelias nuo folder2_2 iki folder1_3 = ../folder1_3/
-kelias nuo folder2_1 iki script.js = ../../script.js
